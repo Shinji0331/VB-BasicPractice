@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\TestProject\bin\Debug\TestProject.exe
+C:\Users\study\AppData\Local\Temporary Projects\TestProject\bin\Debug\TestProject.pdb
+C:\Users\study\AppData\Local\Temporary Projects\TestProject\bin\Debug\TestProject.xml
+C:\Users\study\AppData\Local\Temporary Projects\TestProject\obj\Debug\TestProject.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\TestProject\obj\Debug\TestProject.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\TestProject\obj\Debug\TestProject.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\TestProject\obj\Debug\TestProject.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\TestProject\obj\Debug\TestProject.exe
+C:\Users\study\AppData\Local\Temporary Projects\TestProject\obj\Debug\TestProject.xml
+C:\Users\study\AppData\Local\Temporary Projects\TestProject\obj\Debug\TestProject.pdb
