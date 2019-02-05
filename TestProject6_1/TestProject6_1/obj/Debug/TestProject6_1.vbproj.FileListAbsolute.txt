@@ -1,0 +1,10 @@
+C:\Users\study\AppData\Local\Temporary Projects\TestProject6_1\bin\Debug\TestProject6_1.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\TestProject6_1\bin\Debug\TestProject6_1.exe
+C:\Users\study\AppData\Local\Temporary Projects\TestProject6_1\bin\Debug\TestProject6_1.pdb
+C:\Users\study\AppData\Local\Temporary Projects\TestProject6_1\bin\Debug\TestProject6_1.xml
+C:\Users\study\AppData\Local\Temporary Projects\TestProject6_1\obj\Debug\TestProject6_1.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\TestProject6_1\obj\Debug\TestProject6_1.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\TestProject6_1\obj\Debug\TestProject6_1.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\TestProject6_1\obj\Debug\TestProject6_1.exe
+C:\Users\study\AppData\Local\Temporary Projects\TestProject6_1\obj\Debug\TestProject6_1.xml
+C:\Users\study\AppData\Local\Temporary Projects\TestProject6_1\obj\Debug\TestProject6_1.pdb

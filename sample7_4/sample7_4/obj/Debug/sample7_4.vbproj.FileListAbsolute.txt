@@ -1,0 +1,10 @@
+C:\Users\study\AppData\Local\Temporary Projects\sample7_4\bin\Debug\sample7_4.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\sample7_4\bin\Debug\sample7_4.exe
+C:\Users\study\AppData\Local\Temporary Projects\sample7_4\bin\Debug\sample7_4.pdb
+C:\Users\study\AppData\Local\Temporary Projects\sample7_4\bin\Debug\sample7_4.xml
+C:\Users\study\AppData\Local\Temporary Projects\sample7_4\obj\Debug\sample7_4.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\sample7_4\obj\Debug\sample7_4.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\sample7_4\obj\Debug\sample7_4.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\sample7_4\obj\Debug\sample7_4.exe
+C:\Users\study\AppData\Local\Temporary Projects\sample7_4\obj\Debug\sample7_4.xml
+C:\Users\study\AppData\Local\Temporary Projects\sample7_4\obj\Debug\sample7_4.pdb
