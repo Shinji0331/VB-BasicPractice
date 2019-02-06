@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\抽象クラス　抽象メソッド\bin\Debug\抽象クラス　抽象メソッド.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\抽象クラス　抽象メソッド\bin\Debug\抽象クラス　抽象メソッド.exe
+C:\Users\study\AppData\Local\Temporary Projects\抽象クラス　抽象メソッド\bin\Debug\抽象クラス　抽象メソッド.pdb
+C:\Users\study\AppData\Local\Temporary Projects\抽象クラス　抽象メソッド\bin\Debug\抽象クラス　抽象メソッド.xml
+C:\Users\study\AppData\Local\Temporary Projects\抽象クラス　抽象メソッド\obj\Debug\抽象クラス　抽象メソッド.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\抽象クラス　抽象メソッド\obj\Debug\抽象クラス_抽象メソッド.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\抽象クラス　抽象メソッド\obj\Debug\抽象クラス　抽象メソッド.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\抽象クラス　抽象メソッド\obj\Debug\抽象クラス　抽象メソッド.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\抽象クラス　抽象メソッド\obj\Debug\抽象クラス　抽象メソッド.exe
+C:\Users\study\AppData\Local\Temporary Projects\抽象クラス　抽象メソッド\obj\Debug\抽象クラス　抽象メソッド.xml
+C:\Users\study\AppData\Local\Temporary Projects\抽象クラス　抽象メソッド\obj\Debug\抽象クラス　抽象メソッド.pdb

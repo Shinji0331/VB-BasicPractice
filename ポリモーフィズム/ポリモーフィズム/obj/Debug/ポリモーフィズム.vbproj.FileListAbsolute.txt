@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\ポリモーフィズム\bin\Debug\ポリモーフィズム.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\ポリモーフィズム\bin\Debug\ポリモーフィズム.exe
+C:\Users\study\AppData\Local\Temporary Projects\ポリモーフィズム\bin\Debug\ポリモーフィズム.pdb
+C:\Users\study\AppData\Local\Temporary Projects\ポリモーフィズム\bin\Debug\ポリモーフィズム.xml
+C:\Users\study\AppData\Local\Temporary Projects\ポリモーフィズム\obj\Debug\ポリモーフィズム.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\ポリモーフィズム\obj\Debug\ポリモーフィズム.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\ポリモーフィズム\obj\Debug\ポリモーフィズム.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\ポリモーフィズム\obj\Debug\ポリモーフィズム.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\ポリモーフィズム\obj\Debug\ポリモーフィズム.exe
+C:\Users\study\AppData\Local\Temporary Projects\ポリモーフィズム\obj\Debug\ポリモーフィズム.xml
+C:\Users\study\AppData\Local\Temporary Projects\ポリモーフィズム\obj\Debug\ポリモーフィズム.pdb

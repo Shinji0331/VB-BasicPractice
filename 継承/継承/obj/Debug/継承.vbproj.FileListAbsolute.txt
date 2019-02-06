@@ -9,3 +9,14 @@ C:\Users\study\AppData\Local\Temporary Projects\継承\obj\Debug\継承.vbproj.C
 C:\Users\study\AppData\Local\Temporary Projects\継承\obj\Debug\継承.exe
 C:\Users\study\AppData\Local\Temporary Projects\継承\obj\Debug\継承.xml
 C:\Users\study\AppData\Local\Temporary Projects\継承\obj\Debug\継承.pdb
+C:\Users\study\Desktop\VB.net\継承\継承\obj\Debug\継承.vbprojAssemblyReference.cache
+C:\Users\study\Desktop\VB.net\継承\継承\obj\Debug\継承.Resources.resources
+C:\Users\study\Desktop\VB.net\継承\継承\obj\Debug\継承.vbproj.GenerateResource.cache
+C:\Users\study\Desktop\VB.net\継承\継承\obj\Debug\継承.vbproj.CoreCompileInputs.cache
+C:\Users\study\Desktop\VB.net\継承\継承\obj\Debug\継承.exe
+C:\Users\study\Desktop\VB.net\継承\継承\obj\Debug\継承.xml
+C:\Users\study\Desktop\VB.net\継承\継承\obj\Debug\継承.pdb
+C:\Users\study\Desktop\VB.net\継承\継承\bin\Debug\継承.exe.config
+C:\Users\study\Desktop\VB.net\継承\継承\bin\Debug\継承.exe
+C:\Users\study\Desktop\VB.net\継承\継承\bin\Debug\継承.pdb
+C:\Users\study\Desktop\VB.net\継承\継承\bin\Debug\継承.xml
