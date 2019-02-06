@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "デリゲート", "デリゲート\デリゲート.vbproj", "{53D02209-6702-422C-8DA1-1D167E9C78BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D02209-6702-422C-8DA1-1D167E9C78BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D02209-6702-422C-8DA1-1D167E9C78BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D02209-6702-422C-8DA1-1D167E9C78BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D02209-6702-422C-8DA1-1D167E9C78BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F8C18B5-71E1-4D75-B0E5-5489539B6FC2}
+	EndGlobalSection
+EndGlobal
