@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\TestProject9\bin\Debug\TestProject9.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\TestProject9\bin\Debug\TestProject9.exe
+C:\Users\study\AppData\Local\Temporary Projects\TestProject9\bin\Debug\TestProject9.pdb
+C:\Users\study\AppData\Local\Temporary Projects\TestProject9\bin\Debug\TestProject9.xml
+C:\Users\study\AppData\Local\Temporary Projects\TestProject9\obj\Debug\TestProject9.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\TestProject9\obj\Debug\TestProject9.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\TestProject9\obj\Debug\TestProject9.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\TestProject9\obj\Debug\TestProject9.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\TestProject9\obj\Debug\TestProject9.exe
+C:\Users\study\AppData\Local\Temporary Projects\TestProject9\obj\Debug\TestProject9.xml
+C:\Users\study\AppData\Local\Temporary Projects\TestProject9\obj\Debug\TestProject9.pdb

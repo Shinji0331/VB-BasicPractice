@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\sample10_3\bin\Debug\sample10_3.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\sample10_3\bin\Debug\sample10_3.exe
+C:\Users\study\AppData\Local\Temporary Projects\sample10_3\bin\Debug\sample10_3.pdb
+C:\Users\study\AppData\Local\Temporary Projects\sample10_3\bin\Debug\sample10_3.xml
+C:\Users\study\AppData\Local\Temporary Projects\sample10_3\obj\Debug\sample10_3.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\sample10_3\obj\Debug\sample10_3.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\sample10_3\obj\Debug\sample10_3.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\sample10_3\obj\Debug\sample10_3.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\sample10_3\obj\Debug\sample10_3.exe
+C:\Users\study\AppData\Local\Temporary Projects\sample10_3\obj\Debug\sample10_3.xml
+C:\Users\study\AppData\Local\Temporary Projects\sample10_3\obj\Debug\sample10_3.pdb

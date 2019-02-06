@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\構造体でのクラス定義\bin\Debug\構造体でのクラス定義.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\構造体でのクラス定義\bin\Debug\構造体でのクラス定義.exe
+C:\Users\study\AppData\Local\Temporary Projects\構造体でのクラス定義\bin\Debug\構造体でのクラス定義.pdb
+C:\Users\study\AppData\Local\Temporary Projects\構造体でのクラス定義\bin\Debug\構造体でのクラス定義.xml
+C:\Users\study\AppData\Local\Temporary Projects\構造体でのクラス定義\obj\Debug\構造体でのクラス定義.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\構造体でのクラス定義\obj\Debug\構造体でのクラス定義.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\構造体でのクラス定義\obj\Debug\構造体でのクラス定義.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\構造体でのクラス定義\obj\Debug\構造体でのクラス定義.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\構造体でのクラス定義\obj\Debug\構造体でのクラス定義.exe
+C:\Users\study\AppData\Local\Temporary Projects\構造体でのクラス定義\obj\Debug\構造体でのクラス定義.xml
+C:\Users\study\AppData\Local\Temporary Projects\構造体でのクラス定義\obj\Debug\構造体でのクラス定義.pdb
