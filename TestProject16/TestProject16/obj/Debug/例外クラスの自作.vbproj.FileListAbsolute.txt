@@ -1,0 +1,10 @@
+C:\Users\study\AppData\Local\Temporary Projects\例外クラスの自作\obj\Debug\例外クラスの自作.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\例外クラスの自作\obj\Debug\例外クラスの自作.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\例外クラスの自作\obj\Debug\例外クラスの自作.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\例外クラスの自作\bin\Debug\例外クラスの自作.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\例外クラスの自作\bin\Debug\例外クラスの自作.exe
+C:\Users\study\AppData\Local\Temporary Projects\例外クラスの自作\bin\Debug\例外クラスの自作.pdb
+C:\Users\study\AppData\Local\Temporary Projects\例外クラスの自作\bin\Debug\例外クラスの自作.xml
+C:\Users\study\AppData\Local\Temporary Projects\例外クラスの自作\obj\Debug\例外クラスの自作.exe
+C:\Users\study\AppData\Local\Temporary Projects\例外クラスの自作\obj\Debug\例外クラスの自作.xml
+C:\Users\study\AppData\Local\Temporary Projects\例外クラスの自作\obj\Debug\例外クラスの自作.pdb

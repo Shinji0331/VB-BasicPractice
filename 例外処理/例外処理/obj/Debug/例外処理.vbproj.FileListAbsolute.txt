@@ -1,0 +1,10 @@
+C:\Users\study\AppData\Local\Temporary Projects\例外処理\bin\Debug\例外処理.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\例外処理\bin\Debug\例外処理.exe
+C:\Users\study\AppData\Local\Temporary Projects\例外処理\bin\Debug\例外処理.pdb
+C:\Users\study\AppData\Local\Temporary Projects\例外処理\bin\Debug\例外処理.xml
+C:\Users\study\AppData\Local\Temporary Projects\例外処理\obj\Debug\例外処理.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\例外処理\obj\Debug\例外処理.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\例外処理\obj\Debug\例外処理.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\例外処理\obj\Debug\例外処理.exe
+C:\Users\study\AppData\Local\Temporary Projects\例外処理\obj\Debug\例外処理.xml
+C:\Users\study\AppData\Local\Temporary Projects\例外処理\obj\Debug\例外処理.pdb

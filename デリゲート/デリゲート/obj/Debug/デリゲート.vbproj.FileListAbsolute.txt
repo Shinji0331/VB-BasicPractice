@@ -9,3 +9,14 @@ C:\Users\study\AppData\Local\Temporary Projects\デリゲート\obj\Debug\デリ
 C:\Users\study\AppData\Local\Temporary Projects\デリゲート\obj\Debug\デリゲート.exe
 C:\Users\study\AppData\Local\Temporary Projects\デリゲート\obj\Debug\デリゲート.xml
 C:\Users\study\AppData\Local\Temporary Projects\デリゲート\obj\Debug\デリゲート.pdb
+C:\Users\study\Desktop\VB.net\デリゲート\デリゲート\bin\Debug\デリゲート.exe.config
+C:\Users\study\Desktop\VB.net\デリゲート\デリゲート\bin\Debug\デリゲート.exe
+C:\Users\study\Desktop\VB.net\デリゲート\デリゲート\bin\Debug\デリゲート.pdb
+C:\Users\study\Desktop\VB.net\デリゲート\デリゲート\bin\Debug\デリゲート.xml
+C:\Users\study\Desktop\VB.net\デリゲート\デリゲート\obj\Debug\デリゲート.vbprojAssemblyReference.cache
+C:\Users\study\Desktop\VB.net\デリゲート\デリゲート\obj\Debug\デリゲート.Resources.resources
+C:\Users\study\Desktop\VB.net\デリゲート\デリゲート\obj\Debug\デリゲート.vbproj.GenerateResource.cache
+C:\Users\study\Desktop\VB.net\デリゲート\デリゲート\obj\Debug\デリゲート.vbproj.CoreCompileInputs.cache
+C:\Users\study\Desktop\VB.net\デリゲート\デリゲート\obj\Debug\デリゲート.exe
+C:\Users\study\Desktop\VB.net\デリゲート\デリゲート\obj\Debug\デリゲート.xml
+C:\Users\study\Desktop\VB.net\デリゲート\デリゲート\obj\Debug\デリゲート.pdb

@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\LINQ2\bin\Debug\LINQ2.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\LINQ2\bin\Debug\LINQ2.exe
+C:\Users\study\AppData\Local\Temporary Projects\LINQ2\bin\Debug\LINQ2.pdb
+C:\Users\study\AppData\Local\Temporary Projects\LINQ2\bin\Debug\LINQ2.xml
+C:\Users\study\AppData\Local\Temporary Projects\LINQ2\obj\Debug\LINQ2.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\LINQ2\obj\Debug\LINQ2.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\LINQ2\obj\Debug\LINQ2.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\LINQ2\obj\Debug\LINQ2.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\LINQ2\obj\Debug\LINQ2.exe
+C:\Users\study\AppData\Local\Temporary Projects\LINQ2\obj\Debug\LINQ2.xml
+C:\Users\study\AppData\Local\Temporary Projects\LINQ2\obj\Debug\LINQ2.pdb

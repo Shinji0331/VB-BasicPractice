@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "例外処理", "例外処理\例外処理.vbproj", "{BA8C6A02-52B4-4546-A1DB-5DCF39C1D176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA8C6A02-52B4-4546-A1DB-5DCF39C1D176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8C6A02-52B4-4546-A1DB-5DCF39C1D176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8C6A02-52B4-4546-A1DB-5DCF39C1D176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8C6A02-52B4-4546-A1DB-5DCF39C1D176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC040233-B058-49C8-A542-37420CAB5E40}
+	EndGlobalSection
+EndGlobal

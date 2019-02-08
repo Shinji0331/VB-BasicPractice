@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\例外クラス\bin\Debug\例外クラス.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\例外クラス\bin\Debug\例外クラス.exe
+C:\Users\study\AppData\Local\Temporary Projects\例外クラス\bin\Debug\例外クラス.pdb
+C:\Users\study\AppData\Local\Temporary Projects\例外クラス\bin\Debug\例外クラス.xml
+C:\Users\study\AppData\Local\Temporary Projects\例外クラス\obj\Debug\例外クラス.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\例外クラス\obj\Debug\例外クラス.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\例外クラス\obj\Debug\例外クラス.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\例外クラス\obj\Debug\例外クラス.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\例外クラス\obj\Debug\例外クラス.exe
+C:\Users\study\AppData\Local\Temporary Projects\例外クラス\obj\Debug\例外クラス.xml
+C:\Users\study\AppData\Local\Temporary Projects\例外クラス\obj\Debug\例外クラス.pdb

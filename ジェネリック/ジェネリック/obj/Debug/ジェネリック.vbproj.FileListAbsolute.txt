@@ -1,0 +1,10 @@
+C:\Users\study\AppData\Local\Temporary Projects\ジェネリック\bin\Debug\ジェネリック.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\ジェネリック\bin\Debug\ジェネリック.exe
+C:\Users\study\AppData\Local\Temporary Projects\ジェネリック\bin\Debug\ジェネリック.pdb
+C:\Users\study\AppData\Local\Temporary Projects\ジェネリック\bin\Debug\ジェネリック.xml
+C:\Users\study\AppData\Local\Temporary Projects\ジェネリック\obj\Debug\ジェネリック.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\ジェネリック\obj\Debug\ジェネリック.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\ジェネリック\obj\Debug\ジェネリック.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\ジェネリック\obj\Debug\ジェネリック.exe
+C:\Users\study\AppData\Local\Temporary Projects\ジェネリック\obj\Debug\ジェネリック.xml
+C:\Users\study\AppData\Local\Temporary Projects\ジェネリック\obj\Debug\ジェネリック.pdb

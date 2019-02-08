@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\フォームの作成\bin\Debug\フォームの作成.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\フォームの作成\bin\Debug\フォームの作成.exe
+C:\Users\study\AppData\Local\Temporary Projects\フォームの作成\bin\Debug\フォームの作成.pdb
+C:\Users\study\AppData\Local\Temporary Projects\フォームの作成\bin\Debug\フォームの作成.xml
+C:\Users\study\AppData\Local\Temporary Projects\フォームの作成\obj\Debug\フォームの作成.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\フォームの作成\obj\Debug\フォームの作成.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\フォームの作成\obj\Debug\フォームの作成.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\フォームの作成\obj\Debug\フォームの作成.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\フォームの作成\obj\Debug\フォームの作成.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\フォームの作成\obj\Debug\フォームの作成.exe
+C:\Users\study\AppData\Local\Temporary Projects\フォームの作成\obj\Debug\フォームの作成.xml
+C:\Users\study\AppData\Local\Temporary Projects\フォームの作成\obj\Debug\フォームの作成.pdb
